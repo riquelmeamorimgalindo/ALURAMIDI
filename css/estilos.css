@@ -8,7 +8,7 @@
 
 body {
   align-items: center;
-  background: linear-gradient( #c976f3 ,#12d232);
+  background: linear-gradient( #9b1eda ,#d183d1);
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -17,12 +17,12 @@ body {
 }
 
 h1 {
-  color: rgb(231, 37, 37);
+  color: rgb(8, 8, 8);
   margin-bottom: 20px;
   font-size: 2rem;
 }
 h2 {
-  color: rgb(144, 21, 21);
+  color: rgb(235, 229, 229);
   margin-bottom: 20px;}
 
 .teclado {
